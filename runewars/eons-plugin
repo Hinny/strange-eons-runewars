@@ -1,0 +1,19 @@
+#
+# Runewars Root File
+#
+
+id = CATALOGUEID{0c183bc2-ab02-44c6-ba90-9dcdad74485d:2021-5-4-21-57-30-163}
+
+priority = GAME
+ui-languages = en
+game-languages = en
+
+catalog-name = Runewars
+catalog-credit = Hinnyboy
+catalog-description = Create content for <b>Runewars</b> by FFG.\n<p>This \
+    plug-in includes the following components:\n<ul>\n<li> Development Cards\n<li> \
+    Rules Booklet\n</ul>\n</p>\n<p>Changelog:\n<ul>\n<li>2021-06-04:\n\t<ul>\n\t<li> \
+    TBD\n\t</ul>\n</ul>\n<p>
+catalog-tags = game
+
+res://plugin.js

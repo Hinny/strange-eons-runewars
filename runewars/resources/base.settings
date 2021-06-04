@@ -1,0 +1,19 @@
+#
+# A settings file consists of a set of (key, value) pairs of setting names
+# and their associated values. Each pair appears on its own line and is
+# separated by an equals sign (=). Long lines can be split into multiple lines
+# by ending each line but the last with a backslash (\). The backslash can
+# also be used to escape special characters; for example, a key name can include
+# an equals sign if it is escaped (\=). If the first non-blank character in a
+# line is a number sign (#), then the entire line is treated as a comment and
+# will be ignored.
+#
+
+
+# Upgrade Card
+objective-front-template = components/objective-card/images/blank-small.jp2
+objective-front-dpi = 300
+objective-back-template = components/objective-card/images/blank-small.jp2
+objective-back-dpi = 300
+
+objective-name-region = 63,274,357,83
